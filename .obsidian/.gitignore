@@ -1,0 +1,10 @@
+*
+!.gitignore
+!plugins
+!themes
+!app.json
+!appearance.json
+!community-plugins.json
+!daily-notes.json
+!hotkeys.json
+!templates.json

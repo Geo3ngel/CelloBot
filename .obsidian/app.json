@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Utility/attachments",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Code/"
+  ]
+}
